@@ -1,0 +1,617 @@
+.syndicated-reports{
+	margin: 45px 0px 125px 0px;
+}
+
+.syndicated-reports .syndicated-reports-listing .syndicated-reports-title{
+	background-color:#05236b;
+	margin-bottom: 10px;
+}
+.syndicated-reports .syndicated-reports-listing .syndicated-reports-title h2{
+	font-size:25px;
+	color:#fff;
+	padding: 8px 20px 0px 20px;
+	text-transform: capitalize;
+}
+.active .submenu{
+display:block ;
+}
+
+.syndicated-reports .syndicated-reports-short-desc{
+	padding-top:5px;
+	-webkit-box-shadow: 5px 0px 1px -5px #000000; 
+	box-shadow: 5px 0px 1px -5px #000000;
+}
+.syndicated-reports .syndicated-reports-short-desc :hover{
+  color: #032468;	
+}
+
+.syndicated-reports .syndicated-reports-short-desc  .price{
+	font-weight: 500;
+    color: #032468;
+    font-size: 17px;
+}
+.syndicated-reports .syndicated-reports-short-desc h6{
+	font-size: 19px;
+    color: #052467;
+	line-height: 27px;
+	display: block; 
+  display: -webkit-box;
+  
+}
+.syndicated-reports .syndicated-reports-short-desc p{
+	display: block; 
+  display: -webkit-box;
+  height: 2.6em; 
+  line-height: 1.3em;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.syndicated-reports .syndicated-reports-short-desc .report-btn{
+	padding: 3px 10px;
+    font-size: 12px;
+	text-align:center;
+}
+.horizontal{
+	    margin-top: 7px;
+		
+}
+.report_ul{
+	
+    list-style: none;
+    display: inline;
+	padding:0px;
+	margin:0px;
+    font-weight: 500;
+    font-size: 14px;
+}
+.report_ul li{
+    display: inline-flex;
+	padding-right: 18px;
+}
+.pagination-area ul li a.active, .pagination-area ul li a:focus, .pagination-area ul li a:hover{
+	background:#01216c;
+}
+/*--Sidebar---*/
+.accordion {
+  width: 86%;
+  max-width: 360px;
+   margin: 15px auto 5px;
+  background: #FFF;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+	max-height: 200px;
+    overflow-y: scroll;
+
+	
+}
+}
+.accordion li{
+	padding-bottom: 10px;
+    list-style: none;
+}
+.accordion .link {
+  cursor: pointer;
+  display: block;
+ padding-bottom: 10px;
+  color: #4D4D4D;
+  font-size: 14px;
+  font-weight: 500;
+  
+  position: relative;
+  -webkit-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+  
+}
+
+.accordion li:last-child .link { border-bottom: 0; }
+/*
+.accordion li i {
+  position: absolute;
+  top: 16px;
+ 
+  font-size: 18px;
+  color: #595959;
+  -webkit-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}*/
+
+.accordion li i {
+  right: 12px;
+  left: auto;
+  font-size: 16px;
+}
+
+.accordion li.open .link { color: #032468;}
+
+.accordion li.open i { color: #032468;}
+
+.accordion li.open i {
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.submenu {
+  display: none;
+  background: #fff;
+  font-size: 14px;
+}
+
+.submenu li { border-bottom: 1px solid #ebebf7;list-style: none; }
+
+.submenu a {
+  display: flex;
+    text-decoration: none;
+    color: #585656;
+    padding: 9px;
+    padding-left: 0px;
+}
+
+.submenu a:hover {
+  background: #fff;
+  color: #000;
+}
+.apply-now .apply-btn{
+     padding: 7px 17px;
+    font-size: 12px;
+	text-align:center;
+	margin-top: 18px;
+	margin-bottom:10px;
+}
+.syndicated-reports-sidebar h2{
+	padding-left: 20px;
+    font-size: 25px;
+	
+}
+.syndicated-reports-sidebar .countries{
+	margin-top:20px;
+}
+.syndicated-reports-sidebar  .apply-now {
+	padding-left:20px;
+}
+.countries .accordion li{
+	list-style:none;
+}
+.countries .accordion li a{
+	color:#000;
+}
+
+/**---report details----**/
+.syndicated-reports-sec-detail{
+	margin: 45px 0px 125px 0px;
+
+}
+.syndicated-reports-sec-detail .syndicated-reports-details{
+	border-right:1px solid #e5e5e5;
+}
+.syndicated-reports-sec-detail .syndicated-reports-details h2{
+	font-size: 24px;
+    color: #00266d;
+    padding-bottom: 11px;
+}
+
+.syndicated-reports-sec-detail .syndicated-reports-details .heading{
+	font-size:25px;
+	color:#032469; 
+	padding-right:20px;
+}
+.syndicated-reports-sec-detail .syndicated-reports-details p{
+	font-size:16px; 
+	color:#000;
+	padding-bottom:20px;
+}
+ .syndicated-reports-details .report-details-sec2{
+	 padding:20px;
+ }
+ 
+ 
+.syndicated-reports-details .historical-years p{
+	padding-bottom:0px;
+}
+ 
+ .syndicated-reports .syndicated-reports-sidebar .accordion  input, textarea {
+	 width:13%
+ }
+ 
+/*----tabs------*/
+
+.tablink {
+	background-color: #01216c;
+    color: #fff;
+  float: left;
+outline: none;
+  border-bottom: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 14px;
+  width: 18%;
+  margin-right: 2px;
+      border-radius: 15px 15px 0px 0px;
+}
+
+.tablink:hover {
+  background-color: #01216c;
+}
+
+
+.syndicated-reports-details .tabcontent{
+  color: white;
+  display: none;
+  height: 100%;
+ padding-top: 66px;
+ text-align:justify;
+     width: 91%;
+}
+.syndicated-reports-details .tabcontent h5{
+	font-size:18px;
+	font-weight:500;
+	padding-bottom: 6px;
+
+}
+.syndicated-reports-details .tabcontent .objective {
+	padding-left:21px;
+}
+
+.syndicated-reports-details .tabcontent .objective li{
+	color:#000;
+	font-size: 16px;
+    padding: 6px;
+	
+}
+.syndicated-reports-details .tabcontent .why-buy{
+	background-color:#eee;
+}
+.syndicated-reports-details .tabcontent .icon-why-buy {
+	color:#02246c;
+	font-size:35px;
+}
+.syndicated-reports-details .tabcontent .Why-Buy .icon{
+	padding-top:20px;
+}
+.syndicated-reports-details .tabcontent .Why-Buy h2{
+	font-size:27px;
+
+}
+.syndicated-reports-details .tabcontent .Why-Buy .text-why-buy{
+	padding-bottom:20px;
+}
+.syndicated-reports-details .tabcontent .Why-Buy .text-why-buy h3{
+	font-size:22px;
+}
+
+
+/*----report Detail Sidebar--------*/
+.case-study-sidebar-buy-now {
+	background-color: #eee;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+
+.case-study-sidebar-sec1 {
+	background-color:#eee;
+	padding: 0px 10px 10px 10px;
+	margin-bottom:20px;
+}
+.case-study-sidebar-sec1  .speak-analyst-img{
+	font-size: 41px;
+    color: #01216c;
+    text-align: center;
+	margin-bottom: -15px;
+}
+.case-study-sidebar-sec1 h5{
+    margin-top: 0px;
+    font-size: 19px;
+    color: #01216c;
+    text-align: center;
+}
+.case-study-sidebar-sec1 p{
+    margin-top: 0px;
+    font-size: 15px;
+    color: #01216c;
+    text-align: center;
+}
+.case-study-sidebar-sec2{
+	background-color:#eee;
+	padding: 29px 15px 29px 15px;
+	margin-bottom:20px;
+	
+}
+
+.case-study-sidebar-sec2 h5{
+    margin-top: 0px;
+    font-size: 19px;
+    color: #01216c;
+    text-align: left;
+}
+.case-study-sidebar-sec2 p i{
+	font-size: 15px;
+    padding-right: 15px;
+    color: #01216c;
+}
+.case-study-sidebar-sec2 a{
+	text-align:end;
+	font-size:19px;
+}
+.case-study-sidebar-sec3{
+	background-color:#eee;
+	padding: 29px 15px 29px 15px;
+	margin-bottom:20px;
+	
+}
+.case-study-sidebar-sec3 h5{
+    margin-top: 0px;
+    font-size: 19px;
+    color: #01216c;
+    text-align: left;
+}
+.case-study-sidebar-sec3 a{
+	font-size:16px;
+	padding-bottom:12px;
+	
+}
+.case-study-sidebar-buy-now input, textarea {
+    
+    width: 18%;
+}
+/*-----Speak To Analyst----------*/
+
+.speak-to-analyst{margin-top:20px;margin-bottom:100px;}
+.speak-to-analyst .speak-to-analyst-content h2{font-size:30px; color:#012569;text-transform: uppercase;}
+.memberForm{margin-top:20px;margin-bottom:30px;}
+#speakAnalystForm{background:#fff;padding:30px;-webkit-box-shadow:0 0 1.25rem rgba(108,118,134,.1);box-shadow:0 0 1.25rem rgba(108,118,134,.1)}
+#speakAnalystForm label{font-weight:500 ; color:#012569;}
+#speakAnalystForm .form-control{background:0 0;border: 1px solid rgb(169,169,169);}
+#speakAnalystForm ul{padding:0;margin:0}
+#speakAnalystForm ul li{color:#032468;;margin-top:10px;font-size:14px}
+#speakAnalystForm.text-danger,#speakAnalystForm .text-success{margin-bottom:0;margin-top:20px}
+#speakAnalystForm .h4{font-size:15px}
+#speakAnalystForm a{font-size:20px;}
+#speakAnalystForm a i{font-size:20px;}
+
+
+/*-----Buy Now Form----------*/
+
+.buy-now-detail{ padding: 40px 0px 100px 0px;}
+.buy-now-detail .buy-now-detail-content{text-align:left;}
+.buy-now-detail .buy-now-detail-content h2{font-size:30px; color:#012569;text-transform: uppercase;}
+.buy-now-detail .buy-now-detail-content p{font-size:15px;margin-bottom:0px; color:#000;}
+.buy-now-detail .buy-now-detail-content p form{padding-right:189;}
+.buy-now-detail .buy-now-detail-content p span{color: #01256b;;
+    font-size: 16px;font-weight: 600;}
+.buy-now-detail .buy-now-detail-content p .form{
+	margin:40px;
+}
+.buy-now-detail .buy-now-detail-content .payment-mode input, textarea{width:6%;}
+.buyNowForm{margin-top:20px;margin-bottom:30px;}
+#buyNowForm{background:#fff;padding:30px;border: 1px solid gray;}
+#buyNowForm label{font-weight:500 ; color:#012569;}
+#buyNowForm .form-control{background:0 0;border: 1px solid rgb(169,169,169);height: 40px;
+    padding: 6px;}
+#buyNowForm ul{padding:0;margin:0}
+#buyNowForm ul li{color:#032468;;margin-top:10px;font-size:14px}
+#buyNowForm.text-danger,#buyNowForm .text-success{margin-bottom:0;margin-top:20px}
+#buyNowForm .h4{font-size:15px}
+#buyNowForm a{font-size:20px;}
+#buyNowForm a i{font-size:20px;}
+
+ .buyNowForm .buyNowForm-sidebar-sec1 ,.buyNowForm .buyNowForm-sidebar-sec2 {
+	 background-color: #fff4f4;
+    padding: 20px 20px 20px 20px;
+	margin-bottom:10px;
+ }
+
+ .buyNowForm .buyNowForm-sidebar-sec1 p{
+    font-size: 18px;
+    padding-bottom: 5px;
+    color: #000;
+ }
+ 
+  .buyNowForm .buyNowForm-sidebar-sec1 h6{
+     font-size: 18px;
+    color: #002767;
+  }
+  
+  .buyNowForm .buyNowForm-sidebar-sec2 p{
+	  font-size: 18px;
+    padding-bottom: 5px;
+    color: #000;
+  }
+   .buyNowForm .buyNowForm-sidebar-sec2 p span{
+	   color:#002767;
+	   font-size:20px;
+   }
+   .buyNowForm h2{
+	       font-size: 24px;
+    padding-bottom: 8px;
+   }
+   .buyNowForm img{
+	   padding-bottom: 5px;
+   }
+   
+.case-study-detail-sidebar .case-study-sidebar-buy-now .radio-buy-now:hover  
+{
+	color:#fff;
+	padding:1px;
+	background-color:#00256c;
+	padding-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+/*-----report listing-------*/
+
+@media only screen and (min-width: 375px) and (max-width: 667px){
+    
+    .syndicated-reports{
+        margin-top:20px;
+    }
+    .syndicated-reports-sidebar{
+        padding-bottom:20px;
+    }
+    .syndicated-reports-sidebar h2{
+        font-size: 20px;
+    }
+    .syndicated-reports .syndicated-reports-listing .syndicated-reports-title h2 {
+        font-size:18px;
+    }
+    .syndicated-reports-listing{
+        padding:25px;
+    }
+    .syndicated-reports .syndicated-reports-short-desc h6 {
+        font-size:15px;
+    }
+    
+}
+/*-----Ipad--------*/
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+    
+    .syndicated-reports{
+        margin-top:20px;
+    }
+    .syndicated-reports-sidebar{
+        padding-bottom:20px;
+    }
+    .syndicated-reports-sidebar h2{
+        font-size: 20px;
+    }
+    .syndicated-reports .syndicated-reports-listing .syndicated-reports-title h2 {
+        font-size:18px;
+    }
+    .syndicated-reports-listing{
+        padding:25px;
+    }
+    .syndicated-reports .syndicated-reports-short-desc h6 {
+        font-size:15px;
+    }
+}
+
+/*-----report details---------*/
+@media only screen and (min-width: 375px) and (max-width: 667px){
+    .tablink{
+     padding: 9px 0px;
+    font-size: 14px;
+    width: 100%;
+    margin-bottom: 2px;
+    }
+    .syndicated-reports-sec-detail .syndicated-reports-details h2{
+        font-size: 17px;
+    }
+    .syndicated-reports-sec-detail .syndicated-reports-details .heading {
+        font-size: 19px;
+    }
+    .syndicated-reports-sec-detail .syndicated-reports-details p{
+        text-align:left;
+    }
+    .syndicated-reports-details .tabcontent h5 {
+        text-align:left;
+    }
+    .syndicated-reports-sec-detail .syndicated-reports-details p{
+        padding-bottom:0px;
+    }
+    .syndicated-reports-details .tabcontent .Why-Buy h2 {
+        font-size: 25px;
+        padding-bottom:0px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+   .tablink{
+    padding: 8px 6px;
+    font-size: 11px;
+    width:auto;
+   }
+   .case-study-sidebar-buy-now label{
+       font-size:11px;
+   }
+   .case-study-sidebar-sec2 a{
+       text-align:left;
+       font-size:15px;
+   }
+   .case-study-sidebar-sec3 a{
+       font-size:14px;
+   }
+}
+
+
+@media only screen and (min-width: 255px) and (max-width: 369px){
+    .tablink{
+     padding: 9px 0px;
+    font-size: 14px;
+    width: 100%;
+    margin-bottom: 2px;
+    }
+    .syndicated-reports-sec-detail .syndicated-reports-details h2{
+        font-size: 17px;
+    }
+    .syndicated-reports-sec-detail .syndicated-reports-details .heading {
+        font-size: 19px;
+    }
+    .syndicated-reports-sec-detail .syndicated-reports-details p{
+        text-align:left;
+    }
+    .syndicated-reports-details .tabcontent h5 {
+        text-align:left;
+    }
+    .syndicated-reports-sec-detail .syndicated-reports-details p{
+        padding-bottom:0px;
+        font-size: 14px;
+    }
+    .syndicated-reports-details .tabcontent .Why-Buy h2 {
+        font-size: 25px;
+        padding-bottom:0px;
+    }
+    .case-study-detail-sidebar{
+        margin-top:20px;
+    }
+    .syndicated-reports-details .tabcontent .objective li{
+        font-size:14px;
+    }
+    .syndicated-reports-details .tabcontent h5 {
+        font-size: 16px;
+    }
+}
+
+
+.popup-form{
+    width: 100vw;
+    min-height: 100vh;
+    height: max-content;
+    position: fixed;
+    z-index: 99999;
+    background: rgba(0, 0, 0, 0.7);
+    top: 0;
+    padding-bottom: 30px;
+}
+
+.modal{
+    position: fixed;
+    z-index: 99999;
+}
+
+.modal-body input{
+    margin: 10px auto;
+}
+
+.modal-content{
+    height: max-content;
+    
+}
+
+@media screen and (max-width:760px){
+  .modal input{
+      height: 25px;
+  }
+  .modal button{
+      margin-top: 10px;
+  }
+}

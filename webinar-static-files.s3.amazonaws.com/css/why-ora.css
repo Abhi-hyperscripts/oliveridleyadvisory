@@ -1,0 +1,290 @@
+
+/*----Section Our CEO------*/
+
+.Our-ceo{
+	margin-top:20px; 
+	margin-bottom:20px;
+}
+
+.Our-ceo h2{
+	    font-size: 30px;
+    padding-bottom: 15px;
+    color: #03236d;
+	
+}
+.Our-ceo .Our-ceo-content{
+	border-bottom: 1px solid #e4e0e0;
+	margin-bottom:30px;
+}
+.Our-ceo .Our-ceo-content h2{
+	font-size:20px;
+	font-weight:500;
+	color: #022568;
+	padding-bottom:0px;
+
+}
+.Our-ceo .Our-ceo-content p{
+	color:#000;
+}
+
+/*---section First-------*/
+.ORA-sec1{
+
+	padding-top:45px;
+ }
+.ORA-sec1  .ORA-sec1-content  h2{
+	padding-bottom: 8px;
+    font-size: 29px;
+}
+.ORA-sec1 .ORA-sec1-content  h3{
+	font-size:18px;
+	color:#bd1616;
+	padding-bottom:10px;
+}
+ .ORA-sec1 h2{
+	 font-size:28px;
+ }
+ /*----Section 5-------*/
+.why-ora-sec5 {
+	background-color:#eee;
+	margin-bottom:20px;
+	padding: 50px 0px;
+}
+.why-ora-sec5 h2{
+	font-size:30px; 
+	padding-bottom:10px;
+	
+}
+.why-ora-sec5 .why-ora-sec5-content{
+
+	padding:20px 20px;
+	margin-right: -5px;
+	border-radius: 20px;
+
+}
+.why-ora-sec5 .why-ora-sec5-content h1{
+color:#fff;
+text-align:center;
+font-size:30px;
+padding-left: 10px;
+}
+
+.why-ora-sec5 .why-ora-sec5-content h2{
+color:#000;
+text-align:center;
+font-size:20px;
+padding-left: 10px;
+}
+.why-ora-sec5 .why-ora-sec5-content :hover{
+	color: #00236c;;
+}
+.why-ora-sec5 h2{
+	text-align:center;
+	font-size:30px;
+	color:#00266a;
+}
+/*---Section 6--------*/
+.why-ora-sec6{
+	margin-top:20px; 
+	margin-bottom:20px;
+}
+
+.why-ora-sec6 h3{
+    padding-bottom: 30px;
+    font-size: 30px;
+
+    text-align: center;
+	
+}
+.why-ora-sec6 .why-ora-sec6-content{
+	margin-bottom: 40px;
+    border-left: 4px solid #00236f;
+}
+.why-ora-sec6.why-ora-sec6-content h2{
+	font-size: 35px;
+	font-weight:500;
+	color: #022568;
+	padding-bottom:0px;
+
+}
+.why-ora-sec6.why-ora-sec6-content p{
+	color:#000;
+}
+
+/*----Section Seven------*/
+.why-ora-sec7 {
+	
+	margin-bottom:20px;
+	padding: 50px 0px;
+}
+.why-ora-sec7 h2{
+	font-size:30px; 
+	padding-bottom:10px;
+	color:#00266a;
+}
+
+.why-ora-sec7 p{
+color: #000;
+    font-size: 16px;
+   
+}
+.why-ora-sec7 .why-ora-sec7-content{
+	margin-bottom: 25px;
+	padding: 2px 20px;
+	margin-right: -5px;
+	border-radius: 20px;
+	border: 1px solid #c7cbd2;
+
+}
+.why-ora-sec7 .why-ora-sec7-content h1{
+color:#fff;
+text-align:center;
+font-size:30px;
+padding-left: 10px;
+}
+
+.why-ora-sec7 .why-ora-sec7-content h2{
+color:#00236c;
+text-align:center;
+font-size:20px;
+
+}
+.why-ora-sec7 .why-ora-sec7-content h6{
+	color:#00236c;
+}
+.why-ora-sec7 .why-ora-sec7-content h6 i{
+	padding-right:5px;
+}
+.why-ora-sec7 .why-ora-sec7-content :hover{
+	
+	color: #00236c;
+}
+
+/*---section Eight-------*/
+.ORA-sec8{
+	background-image:url(../static/images/contact5.png);
+	padding:46px 40px 204px 40px;
+	margin-bottom:40px;
+	background-position:bottom;
+ }
+.ORA-sec8  .ORA-sec8-content  h2{
+	padding-bottom:0px;
+    font-size: 29px;
+     padding-left: 40px;
+    color: #fff;
+	text-align: center;
+    font-weight: 500;
+}
+
+ .ORA-sec8 h2{
+	 font-size:28px;
+ }
+ .ORA-sec8 p{
+	 color:#fff;
+	 text-align: center;
+    padding: 8px 50px 8px 50px;
+	
+ }
+ 
+ 
+.ORA-sec8 .contact-us-now{
+	background-color: #ffffff;
+    color: #02246b;
+    border: 2px solid #02246c;
+    padding: 8px 22px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 40px;
+}
+.ORA-sec8 .contact-us-now:hover{
+	background-color: #f00;
+	color: #fff;
+	border: 2px solid #f00;
+}
+
+/*---section Nine-------*/
+.ORA-sec9{
+	margin-bottom: 100px;
+   
+ }
+ .ORA-sec9  .ORA-sec9-content {
+    padding-top: 20px;
+	border-top: 1px solid #9fa3ad;
+    border-bottom: 1px solid #887c7c;
+ }
+.ORA-sec9  .ORA-sec9-content  h2{
+	padding-bottom:0px;
+    font-size: 29px;
+     padding-left: 40px;
+    color: #000;
+	text-align: center;
+    font-weight: 500;
+}
+
+ .ORA-sec9 h2{
+	 font-size:28px;
+ }
+ .ORA-sec9 p{
+	 color:#000;
+	 text-align: center;
+     padding: 0px 50px 0px 50px;
+	
+ }
+ .ORA-sec9 p i{
+	 color:#00266a;
+	 font-size:55px;
+ }
+
+ 
+#close{
+    font-size: 30px;
+    position: absolute;
+    color: white;
+    right: -5px;
+    top: -5px;
+}
+
+
+.zoom{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.87);
+    z-index: 99999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .img-wrapper{
+    height:90%;
+    margin-top: 3%;
+  }
+  .img-wrapper img{
+    height: 100%;
+	display: block;
+	margin: auto;
+  }
+  
+  .text-wrapper{
+    text-align: center;
+  }
+  .text-wrapper span{
+    color: #fff;
+    font-size: 22px;
+    text-shadow: 0px 0px 5px white;
+  }
+  
+  .zoom button{
+    background: none;
+    border: none;
+    outline: none;
+    position: absolute;
+    top: 10px;
+    color: #fff;
+    font-size: 22px;
+    height: 50px;
+    width: 50px;
+    right: 40px;
+  }

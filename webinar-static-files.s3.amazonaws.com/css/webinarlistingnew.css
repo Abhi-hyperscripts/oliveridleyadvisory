@@ -1,0 +1,48 @@
+.webinar-seminar-listing{
+	margin-top:140px;
+	margin-bottom:150px;
+		
+}
+
+.webinar-listing{
+    text-align:center;
+}
+
+
+.webinar-listing .all-webinar-btn{
+	background-color: #ffffff;
+    color: #02246b;
+    border: 2px solid #02246c;
+    padding: 8px 22px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 40px;
+	
+}
+.webinar-listing .all-webinar-btn:hover{
+	background-color: #022567;
+	color: #fff;
+	border: 2px solid #022567;
+}
+
+/*-----Seminar Listing----------*/
+.seminar-listing .all-webinar-btn{
+	background-color: #ffffff;
+    color: #02246b;
+    border: 2px solid #02246c;
+    padding: 8px 22px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 40px;
+	
+}
+.seminar-listing .all-webinar-btn:hover{
+	background-color: #022567;
+	color: #fff;
+	border: 2px solid #022567;
+}
+ 
+ .btn-row{
+	 margin-top:-100px;
+ }
+ 

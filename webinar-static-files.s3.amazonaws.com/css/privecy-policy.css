@@ -1,0 +1,77 @@
+
+/*------- Privecy Policy----*/
+
+                .privecy-policy-banner{
+					    background-color: #00256c;
+						margin-top: 100px;
+						padding: 25px;
+						padding-left: 139px;
+				}
+				.privecy-policy-banner h2{
+				color: #000;
+				padding: 9px;
+				background-color: #fde64b;
+				
+				}
+
+
+				.privecy-policy-area{margin-top:30px;}
+				
+				.privecy-policy-area .privecy-policy-content p{
+					text-align: left;
+					font-size: 16px;
+				
+					
+				}
+				.privecy-policy-area .privecy-policy-content h2{
+					text-align: left;
+					font-size: 30px;
+					padding-bottom: 15px;
+					color: #062369;
+				}
+								
+				.privecy-policy-area .about-image .about-img1{position:relative;right:0;top:0}
+				.privecy-policy-area .about-image .btn{bottom:0}
+				.privecy-policy-sec2{
+					padding-top:30px;
+					padding-bottom:20px;
+				}
+				.privecy-policy-sec2 h2{
+					text-align: left;
+					font-size: 30px;
+					padding-bottom: 15px;
+					color: #062369;
+				}
+			.solid-divider{
+				width:95%;
+				background-color:#c20808;
+			}
+			.privecy-policy-icon{
+				font-size: 25px;
+				padding-right: 10px;
+				color: #c50808;
+
+			}
+			
+			
+	@media only screen and (min-width: 375px) and (max-width: 667px)  {
+	    .privecy-policy-banner{
+	        padding-left:0px;
+	        margin-top:0px;
+	    }
+	    .privecy-policy-banner h2{
+	       
+            margin-top: 73px;
+            padding: 10px 9px;
+            font-size: 20px;
+	    }
+	    .privecy-policy-sec2 h2 {
+	        font-size: 24px;
+    padding-bottom: 5px;
+	    }
+	    .privecy-policy-area .privecy-policy-content h2{
+	        font-size: 25px;
+    padding-bottom: 5px;
+	    }
+	}
+			
